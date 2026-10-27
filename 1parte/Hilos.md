@@ -93,3 +93,5 @@ Reglas para decidir si utilizar un proceso o hilo:
 - Los hilos se usan cuando se requiere un paralelismo fino. Por ejemplo, cuando corren funciones muy similares.
 - Compartir memoria entre hilos puede ser tanto una ventaja como desventaja, requiere de mucho cuidado ante situaciones como condiciones de carrera.
 - Compartir memoria entre hilos requiere de mecanismos IPC, que pueden ser incómodos pero menos propensos a sufrir errores.
+
+Siguiente : [[IPC]]

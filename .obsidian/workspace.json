@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "1a47d269f8e58947",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c38660e15722abb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a93ab06656da5cd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bash/bloque2-ejercicios.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "bloque2-ejercicios"
+            }
+          },
+          {
+            "id": "9e88c08dbcd09a33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bash/bloque3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "bloque3"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ae7a77e563c99ce2",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a94449087087cfe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80b35f3808313f00",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "33100c1df037c476",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "5e38e8d963be5149",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "64e1cf23d6c7022e",
+    "type": "split",
+    "children": [
+      {
+        "id": "85ae394b0c01e4a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d0495b9114c53d6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "bash/cap3.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "d4083e81f2974e3d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "bash/capitulo1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "20ddd1c0e2393dea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "5e5c6e6b4c8e47c0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "97af168c82d63df5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "bash/capitulo1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "a93ab06656da5cd7",
+  "lastOpenFiles": [
+    "bash/bloque3.md",
+    "bash/bloque2.md",
+    "bash/bloque2-ejercicios.md",
+    "Programacion Bash - Cap 4-5-6 - Clase 2.pptx.pdf",
+    "bash/Pasted image 20261005111456.png",
+    "bash/bloque1.md",
+    "Pasted image 20261024185140.png",
+    "Pasted image 20261024185131.png",
+    "Pasted image 20261024185039.png",
+    "Pasted image 20261024185026.png",
+    "Bash-Beginners-Guide.pdf",
+    "bash/bloque1-ejercicios.md",
+    "bash/cap3-ejercicios.md",
+    "bash/cap2-ejercicios.md",
+    "bash/cap5.md",
+    "bash/cap6.md",
+    "bash/cap2.md",
+    "Pasted image 20261021113856.png",
+    "Pasted image 20261020221934.png",
+    "Pasted image 20261020221925.png",
+    "Pasted image 20261020221805.png",
+    "Programacion Bash - Cap 7-8-9 - Clase 3.pptx.pdf",
+    "Introducción a Bash - Clase 1 - Cap 1 a 3.pptx.pdf",
+    "Programacion Bash - Cap 10-11-12 - Clase 4.pptx.pdf",
+    "1parte/Pasted image 20260905002601.png",
+    "Sin nombre",
+    "1parte/Hilos.md",
+    "1parte",
+    "bash"
+  ]
+}
